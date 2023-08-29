@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**adityaraj-h/adityaraj-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my profile
+🌱 I’m currently learning backend tecnologies in C++
+👯 I’m looking to collaborate on Neural Networks and Backend Libraries of C++
+  
+💬 Ask me about Web Development Chess & Thinking Strategies
+📫 How to reach me: [https://www.linkedin.com/in/adityaraj-honraopatil-767a33202/](url)
+
+
+Check out my hashnode profile: [](url)
+
+
