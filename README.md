@@ -10,6 +10,6 @@
 📫 How to reach me: [https://www.linkedin.com/in/adityaraj-honraopatil-767a33202/](url)
 
 
-Check out my hashnode profile: [](url)
+Check out my hashnode profile: [https://hashnode.com/64d813f2102c3648a77c7d1c/dashboard](url)
 
 
